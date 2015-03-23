@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\EnemyState.cs">
+    <Files>
+      <File FileName="..\..\Desktop\DT8999_GamesProg-master\DT8999_GamesProg-master\Assets\13 - State Machine &amp; NavMesh\Turret.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\EnemyState.cs" Line="13" Column="29" />
+      <File FileName="..\..\Desktop\Mecanim State Machines\Mecanim State Machines\Assets\OldStyleStateMachine.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlayerHealth.cs" Line="18" Column="6" />
+      <File FileName="..\..\Desktop\Survival Shooter\Survival Shooter\Assets\Scripts\Enemy\EnemyMovement.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
